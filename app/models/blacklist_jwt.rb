@@ -1,0 +1,2 @@
+class BlacklistJWT < ApplicationRecord
+end
