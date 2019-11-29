@@ -20,9 +20,9 @@ module.exports = {
       'react-dom': '@hot-loader/react-dom',
       components: path.resolve(__dirname, 'javascript', 'src', 'components'),
       containers: path.resolve(__dirname, 'javascript', 'src', 'containers'),
-      services:   path.resolve(__dirname, 'javascript', 'src', 'services'),
-      actions:    path.resolve(__dirname, 'javascript', 'src', 'redux', 'actions'),
-      reducers:   path.resolve(__dirname, 'javascript', 'src', 'redux', 'reducers'),
+      services: path.resolve(__dirname, 'javascript', 'src', 'services'),
+      actions: path.resolve(__dirname, 'javascript', 'src', 'redux', 'actions'),
+      reducers: path.resolve(__dirname, 'javascript', 'src', 'redux', 'reducers'),
     },
   },
   module: {
