@@ -8,7 +8,7 @@ gem 'grape'
 gem 'grape-swagger-rails'
 
 gem 'sqlite3'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 
 gem 'devise'
 gem 'devise-jwt'
